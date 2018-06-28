@@ -18,7 +18,6 @@ img {
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-
 #basket,
 img {
   position: absolute;
