@@ -1,6 +1,9 @@
 /* Select the image with a class of kitty-1 */
+<img id="kitty-1.png" alt="Kitty">
 
-/*__write_selector_here__*/ {
+/*__write_selector_here__*/ 
+img { 
+
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -8,8 +11,9 @@
 }
 
 /* Select the image with id of kitty-2 */
+<img id="kitty-2.png" alt="Kitty">
 
-/*__write_selector_here__*/ {
+img {
   position: absolute;
   z-index: 2;
   top: 212px;
