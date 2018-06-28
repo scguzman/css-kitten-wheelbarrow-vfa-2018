@@ -1,7 +1,6 @@
 /* Select the image with a class of kitty-1 */
-<img id="kitty-1.png" alt="Kitty">
+#kitty-1
 
-/*__write_selector_here__*/ 
 img { 
 
   position: absolute;
