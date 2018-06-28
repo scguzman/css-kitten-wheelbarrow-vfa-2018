@@ -9,8 +9,7 @@ img {
 }
 
 /* Select the image with id of kitty-2 */
-<img id="kitty-2.png" alt="Kitty">
-
+#kitty-2,
 img {
   position: absolute;
   z-index: 2;
