@@ -35,10 +35,10 @@ basket + ball {
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
-img[alt="Kitty"] { 
+img[alt="Kitty 5"] { 
     border: 1px solid black;
 }
-/*__write_selector_here__*/ {
+img {
   position: absolute;
   z-index: 3;
   top: 217px;
